@@ -23,7 +23,7 @@ export class AboutComponent implements OnInit {
       name: 'Frameworks and More',
       skills: [
         'Angular 2+', 'Node.js', 'Jasmine', 'Jest',
-        'Spring',  'JUnit 5', 'CSS3 Responsive', 'SCSS'
+        'Spring', 'JUnit 5', 'CSS3 Responsive', 'SCSS'
       ]
     },
     {
@@ -37,7 +37,7 @@ export class AboutComponent implements OnInit {
       skills: [
         'SQL', 'JDBC', 'MySQL']
     }
-    // todo add when done some courses
+    // todo add when learn some Data Science programs
     // {
     //   name: 'Data Analysis',
     //   skills: [

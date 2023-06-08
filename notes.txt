@@ -1,0 +1,9 @@
+from: https://www.syncfusion.com/blogs/post/easy-steps-to-host-an-angular-app-in-github-pages.aspx
+to deploy:
+  1. ng build --output-path docs --base-href /portfolio/
+  2. push the branch (needs to be in /docs )
+
+
+ Notice version update:
+  1. change all style.css to scss in package.json
+  2. check if some dependencies are missing
